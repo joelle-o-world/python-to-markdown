@@ -25,6 +25,8 @@
 # 2. Execute in the shell using `jupyter nbconvert` sending output to an html file.
 # 3. Use pandoc to covert html back into markdown.
 
+# ## Implementation:
+
 
 import sys
 import re
